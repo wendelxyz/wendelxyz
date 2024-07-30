@@ -1,5 +1,5 @@
 ## Hi there 🌊
-
+### Nice to meet'cha!
 ### 🌱 I’m currently learning UX Design and Frontend Development
 
 <!--
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://roadmap.sh/card/wide/66a829f813cbc2cc47f483c1?variant=light&roadmaps=frontend%2Cux-design
+[![roadmap.sh](https://roadmap.sh/card/wide/66a829f813cbc2cc47f483c1?variant=light&roadmaps=frontend%2Cux-design)](https://roadmap.sh)
