@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![roadmap.sh](https://roadmap.sh/card/wide/66a829f813cbc2cc47f483c1?variant=light)](https://roadmap.sh)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66a829f813cbc2cc47f483c1?variant=light&roadmaps=ux-design%2Cfrontend)](https://roadmap.sh)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66a829f813cbc2cc47f483c1?variant=light&roadmaps=frontend)](https://roadmap.sh)
