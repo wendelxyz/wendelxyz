@@ -2,6 +2,8 @@
 
 #### 🌱 I’m currently learning UX Design and Frontend Development
 
+Behold! ✨ My Portfolio ✨: https://wendelxyz.framer.website/
+
 <!--
 **wendelxyz/wendelxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
