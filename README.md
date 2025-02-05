@@ -1,6 +1,6 @@
 ### Hi there 🌊
 
-#### 🌱 I’m Wendy, a Biomedical Engineering student at uWaterloo currently learning UX Design and Frontend Development
+#### I’m Wendy, a Biomedical Engineering student at uWaterloo currently learning UX Design and Frontend Development 🌱
 
 My Portfolio so far: https://wendelxyz.framer.website/
 
