@@ -1,10 +1,10 @@
 ### Hi there 🌊
 
-#### I’m Wendy, a Biomedical Engineering student at uWaterloo currently learning UX Design and Frontend Development 🌱
-
+#### I’m Wendy, a Biomedical Engineering + Cognitive Science student at uWaterloo 🌱
+<!--
 My Portfolio so far: https://wendelxyz.framer.website/
 
-<!--
+
 **wendelxyz/wendelxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
